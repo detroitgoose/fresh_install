@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install ubuntu-restricted-extras gnome-tweaks solaar firefox vlc gimp audacity -y
+sudo apt install ubuntu-restricted-extras gnome-tweaks solaar firefox vlc gimp speedtest-cli audacity -y
 
 sudo apt update
 
